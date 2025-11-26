@@ -50,5 +50,5 @@ Dataset used: [US Accidents Dataset (Kaggle)](https://www.kaggle.com/datasets/so
 ---
 
 ## 🔗 Repository Links
-- LinkedIn Post: *(Add your LinkedIn post link once published)*
+- LinkedIn Post:(https://www.linkedin.com/posts/sushanth-babu-tammali-b3348a299_datascience-internship-python-share-7399483083978199040-Af0a?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEgm0dcB_ZBoL0FZUxZ-Lvaj_nG-GVjeds8)
 - GitHub Repo: *(This repository itself)*
